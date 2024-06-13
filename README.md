@@ -193,6 +193,11 @@ A Collection of Papers and Codes in AAAI2023 related to Low-Level Vision
 <a name="Enhancement"></a>
 # Image Enhancement 
 
+**Task-specific Scene Structure Representations**
+- Paper: https://arxiv.org/abs/2301.00555
+- Code: https://github.com/seunghyuns98/SSGNet
+- Tags: SSGNet
+
 **Polarization-Aware Low-Light Image Enhancement**
 - Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25486
 - Code: https://github.com/fourson/Polarization-Aware-Low-Light-Image-Enhancement
